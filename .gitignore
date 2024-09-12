@@ -4,7 +4,6 @@
 # Documentos e Arquivos de Dados
 *.txt
 *.png
-*.jpeg
 
 # Diretórios Locais
 .local/
